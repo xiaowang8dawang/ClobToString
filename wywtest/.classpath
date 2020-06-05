@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk160_14_R27.6.5-32">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/workspace_jc/wywtest/lib/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/workspace_jc/wywtest/lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/workspace_jc/wywtest/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/lib/mybatis-3.4.6.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="E:/workspace_jc/wywtest/lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="E:/workspace_jc/wywtest/lib/commons-lang.osgi-2.4.jar"/>
+	<classpathentry kind="lib" path="E:/workspace_jc/wywtest/lib/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/adp-frame.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/spring-beans-2.5.6.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/jboss-aop-1.3.5.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/jboss-cache-1.4.1.SP10.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/jboss-common-4.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/jboss-el-2.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/jboss-jmx-4.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/jboss-minimal-4.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/jboss-serialization-1.0.3.GA.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/jboss-system-4.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/jboss-util-2.0.4.GA.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/spring-aop-2.5.6.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/spring-binding-2.0.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/spring-context-2.5.6.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/spring-context-support-2.5.6.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/spring-core-2.5.6.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/spring-faces-2.0.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/spring-jdbc-2.5.6.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/spring-jms-2.5.6.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/spring-js-2.0.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/spring-ldap-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/spring-modules-cache-0.9-20080306134942.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/spring-orm-2.5.6.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/spring-security-cas-client-2.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/spring-security-core-2.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/spring-test-2.5.6.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/spring-tx-2.5.6.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/spring-web-2.5.6.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/spring-webflow-2.0.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/spring-webmvc-2.5.6.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/spring-webmvc-portlet-2.5.6.jar"/>
+	<classpathentry kind="lib" path="D:/bea10.3/user_projects/domains/adp/framelib/spring-webmvc-struts-2.5.6.jar"/>
+	<classpathentry kind="lib" path="E:/workspace_jc/wywtest/lib/antlr-2.7.4.jar"/>
+	<classpathentry kind="lib" path="E:/workspace_jc/wywtest/lib/chardet-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/workspace_jc/wywtest/lib/cpdetector_1.0.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
